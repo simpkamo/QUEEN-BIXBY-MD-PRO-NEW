@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.owner = ['263713311600']
+global.premium = ['263713311600']
+global.ownernomer = '263713311600'
+global.ownername = 'Nocturno'
+global.botname = 'Pa_NdaBot'
+global.footer = ' Pee-Bot.'
+global.ig = 'https://github.com/mimibotto'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
+global.sc = 'https://github.com/simpkano/QUEEN-BIXBY-MD-PRO-NEW'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.packname = 'Pa_Nda'
+global.author = 'N.C.T'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
@@ -43,12 +43,12 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Please Wait...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Sorry,you need Api key my bru',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 1400,
     monayawal: 1000
 }
    global.rpg = {
